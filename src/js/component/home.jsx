@@ -5,11 +5,10 @@ const Home = () => {
   return (
     <div className="container">
       <form>
-        <p>Welcome</p>
-        <input type="email" placeholder="Email" /><br />
-        <input type="password" placeholder="Password" /><br />
-        <input type="button" value="Sign in" /><br />
-        <a href="#">Forgot Password?</a>
+        <p>Describe your company logo</p>
+        <input type="email" placeholder="Describe your company logo" /><br />
+        <input type="button" value="Submit"/>
+      
       </form>
 
       <div className="drops">
