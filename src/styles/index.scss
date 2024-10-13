@@ -15,8 +15,9 @@ body {
 
 form {
   background: $white;
-  padding: 3em;
+  padding: 2em;
   // height: 320px;
+  width: 800px;
   border-radius: 20px;
   border-left: 1px solid $white;
   border-top: 1px solid $white;
@@ -52,7 +53,7 @@ form {
   
   input {
     background: transparent;
-    width: 900px;
+    width: 600px;
     padding: 1em;
     margin-bottom: 2em;
     border: none;
